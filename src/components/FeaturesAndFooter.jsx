@@ -102,12 +102,12 @@ const FeaturesAndFooter = () => {
                   </a>
                 </li>
                 <li>
-                  <a href="#rooms" className="hover:text-blue-300">
+                  <a href="/#rooms" className="hover:text-blue-300">
                     Rooms
                   </a>
                 </li>
                 <li>
-                  <a href="#features" className="hover:text-blue-300">
+                  <a href="/#features" className="hover:text-blue-300">
                     Features
                   </a>
                 </li>
